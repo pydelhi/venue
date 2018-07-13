@@ -2,31 +2,34 @@ Name of Organisation:
 
 ----------------------------------
 
-Point of contact From the Organisation
+Point of contact From the Organisation:
 
 --------------------------------------
 
-Venu Location:
+Venue Location:
 
 ----------------------
 
-Coordinates: Maps link/geo coordinates
-
+Coordinates: Maps link/geo coordinates:
+- Also, include how to easily reach the venue (Nearby Metro Stations, landmarks)
 --------------------------------------
 
-Seating fascilities details:
- - No of seats
- - Access to Electricity Sockets
+Seating facilities details:
+ - No of seats available -
+ - Access to Internet - 
+ - Access to electricity Sockets 
 
  
 Do you have a projector or a large presentation Screen?
 
 ----------------------------
 
-Preferred dates:
+Preferred dates with timings:
 
 ---------------------
 
 Any more details you would like to provide:
 
 ---------------
+
+Email ID (for contact purposes only) -  
