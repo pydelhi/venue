@@ -6,7 +6,7 @@ Point of contact From the Organisation
 
 --------------------------------------
 
-Venu Location:
+Venue Location:
 
 ----------------------
 
@@ -14,19 +14,21 @@ Coordinates: Maps link/geo coordinates
 
 --------------------------------------
 
-Seating fascilities details:
+Seating facilities details:
  - No of seats
- - Access to Electricity Sockets
+ - Access to Internet and electricity Sockets
 
  
 Do you have a projector or a large presentation Screen?
 
 ----------------------------
 
-Preferred dates:
+Preferred dates with timings
 
 ---------------------
 
 Any more details you would like to provide:
 
 ---------------
+
+Email ID (for contact purposes only) -  
